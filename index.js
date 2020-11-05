@@ -24,7 +24,7 @@ const server = http.createServer((request, response) => {
         '               <meta name="author" content="Carlos Arias"> \n' +
         '               <title>Netcentric Computing Home Page</title> \n' +
         '               <!-- Bootstrap core CSS --> \n' +
-        '               <link href="http://leia.cs.spu.edu/bootstrap/css/bootstrap.min.css" rel="stylesheet"> \n' +
+        //'               <link href="http://leia.cs.spu.edu/bootstrap/css/bootstrap.min.css" rel="stylesheet"> \n' +
         '       </head> \n' +
         '        <body> \n' +
         '               <div class="container" style="text-align: center"> \n' +
